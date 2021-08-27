@@ -510,7 +510,7 @@
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
-  (via (at 144.5 63) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 87d1b337-dd6d-4903-9864-45bb2fdf54b1))
+  (via (at 144.5 63) (size 1.2) (drill 0.8) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 87d1b337-dd6d-4903-9864-45bb2fdf54b1))
 
   (zone (net 1) (net_name "COMMON") (layers F&B.Cu) (tstamp 7e11ac86-26d3-420d-9d7f-a24253c7faab) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
