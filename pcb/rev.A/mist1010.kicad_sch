@@ -18485,7 +18485,7 @@
     (property "Reference" "N1" (id 0) (at 498.475 336.8674 0)
       (effects (font (size 1 1)) (justify left) hide)
     )
-    (property "Value" "G738" (id 1) (at 487.68 343.8524 0)
+    (property "Value" "G738 or G706" (id 1) (at 487.045 343.8524 0)
       (effects (font (size 1 1)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 494.665 335.915 0)
@@ -20393,7 +20393,7 @@
       (reference "LS1") (unit 1) (value "Speaker") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
     (path "/b487b0a1-b165-408b-b378-148f08d7f761"
-      (reference "N1") (unit 1) (value "G738") (footprint "")
+      (reference "N1") (unit 1) (value "G738 or G706") (footprint "")
     )
     (path "/ce695809-036d-4301-b0c8-a43459904e3a"
       (reference "Q2") (unit 1) (value "IRLML6402") (footprint "Package_TO_SOT_SMD:SOT-23")
