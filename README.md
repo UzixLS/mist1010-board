@@ -19,7 +19,7 @@ Tech specs:
 Some photos: [link](https://cloud.err200.net/index.php/s/73TR85tYZkMm8Ax?path=%2Fmist1010)
 
 ### Current status
-* Rev.A - done. Please note the [errata](pcb/rev.A/ERRATA.ru.txt).
+* Rev.A - done. Please note the [errata](pcb/rev.A/ERRATA.txt).
 
 TODO:
 - Check wifi
