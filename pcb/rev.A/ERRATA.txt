@@ -1,0 +1,11 @@
+1. VGA_x0 .. VGA_x5 resistors are reversed by value. Should be:
+   VGA_x5 - 1k + 1.1k in parallel
+   VGA_x4 - 1.1k
+   VGA_x3 - 2.2k
+   VGA_x2 - 4.3k
+   VGA_x1 - 9.1k
+   VGA_x0 - 18k
+2. USB_DP and USB_DN signals are swapped.
+3. R49 is connected to RTC_DP net, should be RTC_DN.
+4. USB, VGA and jack 3.5 connectors are placed too deep. Jack 3.5 should be soldered 2-3mm ahead it's footprint.
+5. LS1 shouldn't be mounted.
