@@ -22,5 +22,4 @@ Some photos: [link](https://cloud.err200.net/index.php/s/73TR85tYZkMm8Ax?path=%2
 * Rev.A - done. Please note the [errata](pcb/rev.A/ERRATA.txt).
 
 TODO:
-- Check wifi
 - Make Rev.A1 with all fixes.

@@ -9,3 +9,4 @@
 3. R49 is connected to RTC_DP net, should be RTC_DN.
 4. USB, VGA and jack 3.5 connectors are placed too deep. Jack 3.5 should be soldered 2-3mm ahead it's footprint.
 5. LS1 shouldn't be mounted.
+6. Tape and WiFi isn't possible to use at the same time. If you want to install WiFi module - do not mount R59.
