@@ -17,6 +17,7 @@ Tech specs:
 - SD/microSD card slot
 - RTC (clock) with battery
 - Tape input
+- ESP-01 WiFi module
 - MicroUSB power supply
 - Board optimized for G738 and G706 cases
 
