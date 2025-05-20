@@ -44,7 +44,7 @@ Some random photos: [link](https://cloud.err200.net/index.php/s/73TR85tYZkMm8Ax?
     * added JP4 solder jumper to disconnect CVBS circuit from 3.5mm jack
     * added U16 buffer with dedicated power source U17 for audio 1-bit DAC
     * added USB 2.54mm header
-    * tuned SDRAM traces lenght for better match with MIST v1.3 PCB
+    * tuned SDRAM traces length for better match with MIST v1.3 PCB
     * changed U6 (attiny) footprint from DIP to SOIC
     * changed Y1 and Y2 footprints from THT to SMD
     * changed 1117-3.3 footprint from TO-252-2 to SOT-223-3
@@ -65,7 +65,7 @@ Some random photos: [link](https://cloud.err200.net/index.php/s/73TR85tYZkMm8Ax?
     * reverted to old reset circuit
     * various minor changes in board layout
 * Rev.C1:
-    * changed R47 from 220Ω to 1kΩ to reduce power led bightness
+    * changed R47 from 220Ω to 1kΩ to reduce power led brightness
     * slightly moved C87 and C89
 
 ### Useful links
